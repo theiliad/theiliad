@@ -7,4 +7,4 @@ Here are a few things that describe me:
 
 - 💼&nbsp;&nbsp; I'm currently leading IBM's ["Carbon Design System - Data-visualization"](https://www.carbondesignsystem.com/data-visualization/getting-started/) efforts.
 - 📱&nbsp;&nbsp; I spend most of my time writing TypeScript on both the front-end and back-end
-- 🎸&nbsp;&nbsp; I like to produce music on the side
+- 🎸&nbsp;&nbsp; I like to produce music
