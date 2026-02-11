@@ -19,6 +19,6 @@ Here are a few things that describe me:
 
 ## Carbon Design System - IBM's Official Design System
 
-<a href="https://carbondesignsystem" target="_blank" rel="noreferrer">
+<a href="https://carbondesignsystem.com" target="_blank" rel="noreferrer">
   <img width="600" alt="Carbon Design System" src="https://github.com/user-attachments/assets/e896d12a-f244-47c4-bbac-40ed003c201d" />
 </a>
